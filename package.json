@@ -3,10 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "eslint": "^7.10.0",
+    "js-yaml": "^3.14.0",
+    "mem": "^6.1.1",
     "muicss": "^0.9.41",
+    "node-fetch": "^2.6.1",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
-    "react-scripts": "1.1.5"
+    "react-scripts": "1.1.5",
+    "webpack-dev-server": "^3.11.0",
+    "yargs-parser": "^20.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
